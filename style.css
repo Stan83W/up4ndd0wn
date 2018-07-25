@@ -1,0 +1,22 @@
+img {
+	position: fixed;
+	height: 50%;
+}
+.up, .and {
+	width: 50%;
+}
+.down {
+	width: 100%;
+}
+img.up {
+	top: 0;
+	left: 0;
+}
+img.and {
+	top: 0;
+	right: 0;
+}
+img.down {
+	bottom: 0;
+	left: 0;
+}
